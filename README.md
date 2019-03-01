@@ -1,2 +1,3 @@
 # hello-world
-first app
+Hi human
+Node.js
